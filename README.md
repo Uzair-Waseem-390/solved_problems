@@ -43,6 +43,4 @@ Mostly for myself honestly. Having it public just adds a tiny bit of pressure to
 
 ---
 
-*"The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie*
-
-(same goes for algorithms)
+*"The only way to learn a new programming language is by writing programs in it."
