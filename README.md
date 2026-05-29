@@ -36,4 +36,4 @@ Mostly for myself honestly. Having it public just adds a tiny bit of pressure to
 
 ---
 
-*"The only way to learn a new programming language is by writing programs in it."
+"The only way to learn a new programming language is by writing programs in it."
