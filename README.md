@@ -6,13 +6,6 @@ Just a place where I track my LeetCode grind. Started doing this to actually hol
 
 Solutions to problems I've worked through, organized by date. Mostly Python since that's what I'm comfortable with, though I might mix in other languages down the road.
 
-solved_problems/
-└── leetcode/
-└── 2026/
-└── 05/
-├── 001_two_sum.py
-├── 033_search_in_rotated_sorted_array.py
-└── ...
 ## How I approach problems
 
 I try to actually understand the problem before jumping to code. Usually I'll think through a brute force first, then see if there's something smarter. I don't always get the optimal solution on the first try and that's fine — the point is to learn.
