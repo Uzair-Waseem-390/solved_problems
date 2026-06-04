@@ -20,7 +20,7 @@ Some problems I knock out in 20 minutes. Others I'll sit with for a while, look 
 
 ## Stack
 
-- Language: Python
+- Language: Python 3.12
 - No external libraries — just standard Python and whatever LeetCode provides
 
 ## Why public?
